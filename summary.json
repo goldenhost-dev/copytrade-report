@@ -1,0 +1,25 @@
+{
+  "generated_at": 1794598451.1185563,
+  "wallets_scanned": 511,
+  "traders_passed": 19,
+  "likely_mm_bot": 171,
+  "trader_errors": 0,
+  "open_bets": 413,
+  "ws_category_bets": 83,
+  "copyable": 10,
+  "exact": 6,
+  "kalshi_markets_considered": 26940,
+  "http": {
+    "polymarket": {
+      "network": 4077,
+      "cache_hits": 0,
+      "retries": 0
+    },
+    "kalshi": {
+      "network": 161,
+      "cache_hits": 0,
+      "retries": 0
+    }
+  },
+  "history_compared_to": "2026-11-12"
+}
